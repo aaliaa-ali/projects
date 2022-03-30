@@ -4,11 +4,11 @@ ITI Graduation project
 <br/>
 https://github.com/aaliaa-ali/resto
 <hr/>
-Contact List usig javascript:
+Contact List using javascript:
 <br/>
 https://github.com/aaliaa-ali/contactList-javascript
 <hr/>
-Javascript project:
+Online Exam using Javascript project:
 <br/>
 https://github.com/Bassant58/JS_Project
 <hr/>
