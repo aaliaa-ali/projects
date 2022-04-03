@@ -24,6 +24,7 @@ Bootstrab project:
 <br/>
 https://github.com/aaliaa-ali/Bootstrap-project
 <hr/>
-Frontend of Apple official home, login, register pages (Html5 – CSS3) 
+Frontend of Apple official home, login, register pages 
+Using(Html5 – CSS3) 
 <br/>
 https://aliaaali.000webhostapp.com/
