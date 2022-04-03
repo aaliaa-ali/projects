@@ -1,6 +1,6 @@
 # projects
 
-ITI Graduation project
+ITI Graduation project (Restaurant Reservation System)
 <br/>
 https://github.com/aaliaa-ali/resto
 <hr/>
