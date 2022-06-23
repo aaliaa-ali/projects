@@ -1,5 +1,25 @@
 # projects
 
+
+
+Movie App 
+<br/>
+using(React-axios-Bootstrab)
+<br/>
+https://aaliaa-ali.github.io/movie-app/
+<br/>
+Easy Bank Landing Page
+<br/>
+using(Bootstrab-scss-Html5)
+<br/>
+https://aaliaa-ali.github.io/Easy-Bank/
+<br/>
+Crud Operation  
+<br/>
+using(React-Firestore)
+<br/>
+https://github.com/aaliaa-ali/firebase-task
+<br/>
 ITI Graduation project (Restaurant Reservation System)
 <br/>
 using(Angular-Lavarel-MySQL-Bootstrab)
