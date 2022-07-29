@@ -1,7 +1,6 @@
 # projects
 
 
-
 <b> Movie App </b>
 <br/>
 using(React-axios-Bootstrab)
@@ -13,6 +12,12 @@ https://aaliaa-ali.github.io/movie-app/
 using(React,useForm Hook,MUI)
 <br/>
 https://aaliaa-ali.github.io/registration-form/
+<hr/>
+<b> Products App</b>
+<br/>
+using(React-React Query-Formik,Redux Thunk)
+<br/>
+https://github.com/aaliaa-ali/products--app
 <hr/>
 <b> Easy Bank Landing Page</b>
 <br/>
